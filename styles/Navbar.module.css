@@ -1,0 +1,14 @@
+.nav_list {
+  display: table !important;
+  text-align: center;
+  width: 100%;
+}
+
+.nav_link {
+  display: table-cell;
+}
+
+.nav_link a {
+  color: #000;
+  text-decoration: none;
+}
